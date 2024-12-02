@@ -1,4 +1,4 @@
-,year,league,team,squad_depth,foreigners,avg_age,avg_market_value,market_value,titles
+,year,league,team,squad_depth,avg_age,foreigners,avg_market_value,market_value,titles
 0,2000,LaLiga,Real Sociedad,32,26.1,10,-,-,[]
 1,2000,LaLiga,Real Oviedo,32,25.8,13,-,-,[]
 2,2000,LaLiga,CD Numancia,27,27.5,7,-,-,[]
