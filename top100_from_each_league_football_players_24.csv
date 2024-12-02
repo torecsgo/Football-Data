@@ -1,0 +1,406 @@
+,date,league,ranking,name,position,nationality,age,club,value
+0,2024-12-02,Premier League,1,Erling Haaland,Centre-Forward,Norway,24,Manchester City,€200.00m
+1,2024-12-02,Premier League,2,Phil Foden,Right Winger,England,24,Manchester City,€150.00m
+2,2024-12-02,Premier League,3,Bukayo Saka,Right Winger,England,23,Arsenal FC,€140.00m
+3,2024-12-02,Premier League,4,Rodri,Defensive Midfield,Spain,28,Manchester City,€130.00m
+4,2024-12-02,Premier League,5,Declan Rice,Defensive Midfield,England,25,Arsenal FC,€120.00m
+5,2024-12-02,Premier League,6,Martin Ødegaard,Attacking Midfield,Norway,25,Arsenal FC,€110.00m
+6,2024-12-02,Premier League,7,Cole Palmer,Attacking Midfield,England,22,Chelsea FC,€90.00m
+7,2024-12-02,Premier League,8,Bruno Guimarães,Defensive Midfield,Brazil,27,Newcastle United,€85.00m
+8,2024-12-02,Premier League,9,Rúben Dias,Centre-Back,Portugal,27,Manchester City,€80.00m
+9,2024-12-02,Premier League,10,William Saliba,Centre-Back,France,23,Arsenal FC,€80.00m
+10,2024-12-02,Premier League,11,Luis Díaz,Left Winger,Colombia,27,Liverpool FC,€80.00m
+11,2024-12-02,Premier League,12,Alexis Mac Allister,Central Midfield,Argentina,25,Liverpool FC,€75.00m
+12,2024-12-02,Premier League,13,Moisés Caicedo,Defensive Midfield,Ecuador,23,Chelsea FC,€75.00m
+13,2024-12-02,Premier League,14,Alexander Isak,Centre-Forward,Sweden,25,Newcastle United,€75.00m
+14,2024-12-02,Premier League,15,Josko Gvardiol,Left-Back,Croatia,22,Manchester City,€75.00m
+15,2024-12-02,Premier League,16,Dominik Szoboszlai,Attacking Midfield,Hungary,24,Liverpool FC,€75.00m
+16,2024-12-02,Premier League,17,Gabriel Magalhães,Centre-Back,Brazil,26,Arsenal FC,€75.00m
+17,2024-12-02,Premier League,18,Kai Havertz,Centre-Forward,Germany,25,Arsenal FC,€75.00m
+18,2024-12-02,Premier League,19,Enzo Fernández,Central Midfield,Argentina,23,Chelsea FC,€75.00m
+19,2024-12-02,Premier League,20,James Maddison,Attacking Midfield,England,28,Tottenham Hotspur,€70.00m
+20,2024-12-02,Premier League,21,Bernardo Silva,Attacking Midfield,Portugal,30,Manchester City,€70.00m
+21,2024-12-02,Premier League,22,Trent Alexander-Arnold,Right-Back,England,26,Liverpool FC,€70.00m
+22,2024-12-02,Premier League,23,Christopher Nkunku,Attacking Midfield,France,27,Chelsea FC,€65.00m
+23,2024-12-02,Premier League,24,Bruno Fernandes,Attacking Midfield,Portugal,30,Manchester United,€65.00m
+24,2024-12-02,Premier League,25,Ollie Watkins,Centre-Forward,England,28,Aston Villa,€65.00m
+25,2024-12-02,Premier League,26,Darwin Núñez,Centre-Forward,Uruguay,25,Liverpool FC,€65.00m
+26,2024-12-02,Premier League,27,Cristian Romero,Centre-Back,Argentina,26,Tottenham Hotspur,€65.00m
+27,2024-12-02,Premier League,28,Jérémy Doku,Left Winger,Belgium,22,Manchester City,€65.00m
+28,2024-12-02,Premier League,29,Rasmus Højlund,Centre-Forward,Denmark,21,Manchester United,€65.00m
+29,2024-12-02,Premier League,30,Gabriel Martinelli,Left Winger,Brazil,23,Arsenal FC,€60.00m
+30,2024-12-02,Premier League,31,Eberechi Eze,Attacking Midfield,England,26,Crystal Palace,€60.00m
+31,2024-12-02,Premier League,32,Anthony Gordon,Left Winger,England,23,Newcastle United,€60.00m
+32,2024-12-02,Premier League,33,Marcus Rashford,Left Winger,England,27,Manchester United,€60.00m
+33,2024-12-02,Premier League,34,Micky van de Ven,Centre-Back,Netherlands,23,Tottenham Hotspur,€55.00m
+34,2024-12-02,Premier League,35,Dejan Kulusevski,Attacking Midfield,Sweden,24,Tottenham Hotspur,€55.00m
+35,2024-12-02,Premier League,36,Ben White,Right-Back,England,27,Arsenal FC,€55.00m
+36,2024-12-02,Premier League,37,Cody Gakpo,Left Winger,Netherlands,25,Liverpool FC,€55.00m
+37,2024-12-02,Premier League,38,Mohamed Salah,Right Winger,Egypt,32,Liverpool FC,€55.00m
+38,2024-12-02,Premier League,39,Lucas Paquetá,Attacking Midfield,Brazil,27,West Ham United,€55.00m
+39,2024-12-02,Premier League,40,Kobbie Mainoo,Central Midfield,England,19,Manchester United,€55.00m
+40,2024-12-02,Premier League,41,Matthijs de Ligt,Centre-Back,Netherlands,25,Manchester United,€55.00m
+41,2024-12-02,Premier League,42,Leny Yoro,Centre-Back,France,19,Manchester United,€55.00m
+42,2024-12-02,Premier League,43,Gabriel Jesus,Centre-Forward,Brazil,27,Arsenal FC,€55.00m
+43,2024-12-02,Premier League,44,Jack Grealish,Left Winger,England,29,Manchester City,€55.00m
+44,2024-12-02,Premier League,45,Amadou Onana,Defensive Midfield,Belgium,23,Aston Villa,€55.00m
+45,2024-12-02,Premier League,46,Pedro Neto,Right Winger,Portugal,24,Chelsea FC,€55.00m
+46,2024-12-02,Premier League,47,Levi Colwill,Centre-Back,England,21,Chelsea FC,€50.00m
+47,2024-12-02,Premier League,48,Lisandro Martínez,Centre-Back,Argentina,26,Manchester United,€50.00m
+48,2024-12-02,Premier League,49,Mohammed Kudus,Right Winger,Ghana,24,West Ham United,€50.00m
+49,2024-12-02,Premier League,50,Alejandro Garnacho,Left Winger,Argentina,20,Manchester United,€50.00m
+61,2024-12-02,Premier League,12,Josko Gvardiol,Left-Back,Croatia,22,Manchester City,€75.00m
+62,2024-12-02,Premier League,13,Kai Havertz,Centre-Forward,Germany,25,Arsenal FC,€75.00m
+63,2024-12-02,Premier League,14,Gabriel Magalhães,Centre-Back,Brazil,26,Arsenal FC,€75.00m
+64,2024-12-02,Premier League,15,Alexander Isak,Centre-Forward,Sweden,25,Newcastle United,€75.00m
+65,2024-12-02,Premier League,16,Enzo Fernández,Central Midfield,Argentina,23,Chelsea FC,€75.00m
+66,2024-12-02,Premier League,17,Moisés Caicedo,Defensive Midfield,Ecuador,23,Chelsea FC,€75.00m
+67,2024-12-02,Premier League,18,Dominik Szoboszlai,Attacking Midfield,Hungary,24,Liverpool FC,€75.00m
+68,2024-12-02,Premier League,19,Alexis Mac Allister,Central Midfield,Argentina,25,Liverpool FC,€75.00m
+69,2024-12-02,Premier League,20,Bernardo Silva,Attacking Midfield,Portugal,30,Manchester City,€70.00m
+70,2024-12-02,Premier League,21,Trent Alexander-Arnold,Right-Back,England,26,Liverpool FC,€70.00m
+71,2024-12-02,Premier League,22,James Maddison,Attacking Midfield,England,28,Tottenham Hotspur,€70.00m
+72,2024-12-02,Premier League,23,Jérémy Doku,Left Winger,Belgium,22,Manchester City,€65.00m
+73,2024-12-02,Premier League,24,Rasmus Højlund,Centre-Forward,Denmark,21,Manchester United,€65.00m
+75,2024-12-02,Premier League,76,Matheus Nunes,Central Midfield,Portugal,26,Manchester City,€40.00m
+76,2024-12-02,Premier League,77,João Gomes,Central Midfield,Brazil,23,Wolverhampton Wanderers,€40.00m
+77,2024-12-02,Premier League,78,Murillo,Centre-Back,Brazil,22,Nottingham Forest,€40.00m
+78,2024-12-02,Premier League,79,Nicolas Jackson,Centre-Forward,Senegal,23,Chelsea FC,€40.00m
+79,2024-12-02,Premier League,80,Nathan Aké,Centre-Back,Netherlands,29,Manchester City,€40.00m
+80,2024-12-02,Premier League,81,Rico Lewis,Right-Back,England,20,Manchester City,€40.00m
+81,2024-12-02,Premier League,82,Ryan Gravenberch,Central Midfield,Netherlands,22,Liverpool FC,€40.00m
+82,2024-12-02,Premier League,83,Diogo Dalot,Right-Back,Portugal,25,Manchester United,€40.00m
+83,2024-12-02,Premier League,84,Ian Maatsen,Left-Back,Netherlands,22,Aston Villa,€40.00m
+84,2024-12-02,Premier League,85,Joelinton,Central Midfield,Brazil,28,Newcastle United,€40.00m
+85,2024-12-02,Premier League,86,Bryan Mbeumo,Right Winger,Cameroon,25,Brentford FC,€40.00m
+86,2024-12-02,Premier League,87,Morgan Gibbs-White,Attacking Midfield,England,24,Nottingham Forest,€40.00m
+87,2024-12-02,Premier League,88,John Stones,Centre-Back,England,30,Manchester City,€38.00m
+88,2024-12-02,Premier League,89,Sandro Tonali,Central Midfield,Italy,24,Newcastle United,€38.00m
+89,2024-12-02,Premier League,90,Boubacar Kamara,Defensive Midfield,France,25,Aston Villa,€38.00m
+90,2024-12-02,Premier League,91,Jurrien Timber,Centre-Back,Netherlands,23,Arsenal FC,€38.00m
+91,2024-12-02,Premier League,92,Maximilian Kilman,Centre-Back,England,27,West Ham United,€38.00m
+92,2024-12-02,Premier League,93,Takehiro Tomiyasu,Right-Back,Japan,26,Arsenal FC,€35.00m
+93,2024-12-02,Premier League,94,Curtis Jones,Central Midfield,England,23,Liverpool FC,€35.00m
+94,2024-12-02,Premier League,95,André Onana,Goalkeeper,Cameroon,28,Manchester United,€35.00m
+95,2024-12-02,Premier League,96,Rodrigo Bentancur,Defensive Midfield,Uruguay,27,Tottenham Hotspur,€35.00m
+96,2024-12-02,Premier League,97,David Raya,Goalkeeper,Spain,29,Arsenal FC,€35.00m
+97,2024-12-02,Premier League,98,Ezri Konsa,Centre-Back,England,27,Aston Villa,€35.00m
+98,2024-12-02,Premier League,99,Malo Gusto,Right-Back,France,21,Chelsea FC,€35.00m
+99,2024-12-02,Premier League,100,Rayan Aït-Nouri,Left-Back,Algeria,23,Wolverhampton Wanderers,€35.00m
+100,2024-12-02,LaLiga,1,Vinicius Junior,Left Winger,Brazil,24,Real Madrid,€200.00m
+101,2024-12-02,LaLiga,2,Jude Bellingham,Attacking Midfield,England,21,Real Madrid,€180.00m
+102,2024-12-02,LaLiga,3,Kylian Mbappé,Centre-Forward,France,25,Real Madrid,€180.00m
+103,2024-12-02,LaLiga,4,Lamine Yamal,Right Winger,Spain,17,FC Barcelona,€150.00m
+104,2024-12-02,LaLiga,5,Federico Valverde,Central Midfield,Uruguay,26,Real Madrid,€130.00m
+105,2024-12-02,LaLiga,6,Rodrygo,Right Winger,Brazil,23,Real Madrid,€110.00m
+106,2024-12-02,LaLiga,7,Eduardo Camavinga,Central Midfield,France,22,Real Madrid,€100.00m
+107,2024-12-02,LaLiga,8,Aurélien Tchouaméni,Defensive Midfield,France,24,Real Madrid,€100.00m
+108,2024-12-02,LaLiga,9,Gavi,Central Midfield,Spain,20,FC Barcelona,€90.00m
+109,2024-12-02,LaLiga,10,Pedri,Central Midfield,Spain,22,FC Barcelona,€80.00m
+110,2024-12-02,LaLiga,11,Julián Alvarez,Centre-Forward,Argentina,24,Atlético de Madrid,€75.00m
+111,2024-12-02,LaLiga,12,Ronald Araujo,Centre-Back,Uruguay,25,FC Barcelona,€70.00m
+112,2024-12-02,LaLiga,13,Nico Williams,Left Winger,Spain,22,Athletic Bilbao,€70.00m
+113,2024-12-02,LaLiga,14,Dani Olmo,Attacking Midfield,Spain,26,FC Barcelona,€60.00m
+114,2024-12-02,LaLiga,15,Frenkie de Jong,Central Midfield,Netherlands,27,FC Barcelona,€60.00m
+115,2024-12-02,LaLiga,16,Raphinha,Left Winger,Brazil,27,FC Barcelona,€60.00m
+116,2024-12-02,LaLiga,17,Martín Zubimendi,Defensive Midfield,Spain,25,Real Sociedad,€60.00m
+117,2024-12-02,LaLiga,18,Endrick,Centre-Forward,Brazil,18,Real Madrid,€60.00m
+118,2024-12-02,LaLiga,19,Éder Militão,Centre-Back,Brazil,26,Real Madrid,€60.00m
+119,2024-12-02,LaLiga,20,Jules Koundé,Right-Back,France,26,FC Barcelona,€55.00m
+120,2024-12-02,LaLiga,21,Álex Baena,Left Winger,Spain,23,Villarreal CF,€50.00m
+121,2024-12-02,LaLiga,22,Conor Gallagher,Central Midfield,England,24,Atlético de Madrid,€50.00m
+122,2024-12-02,LaLiga,23,Takefusa Kubo,Right Winger,Japan,23,Real Sociedad,€50.00m
+123,2024-12-02,LaLiga,24,Fermín López,Central Midfield,Spain,21,FC Barcelona,€50.00m
+124,2024-12-02,LaLiga,25,Giorgi Mamardashvili,Goalkeeper,Georgia,24,Valencia CF,€45.00m
+125,2024-12-02,LaLiga,26,Arda Güler,Right Winger,Türkiye,19,Real Madrid,€45.00m
+126,2024-12-02,LaLiga,27,Robin Le Normand,Centre-Back,Spain,28,Atlético de Madrid,€40.00m
+127,2024-12-02,LaLiga,28,Alejandro Balde,Left-Back,Spain,21,FC Barcelona,€40.00m
+128,2024-12-02,LaLiga,29,Mikel Oyarzabal,Centre-Forward,Spain,27,Real Sociedad,€40.00m
+129,2024-12-02,LaLiga,30,Brais Méndez,Attacking Midfield,Spain,27,Real Sociedad,€40.00m
+130,2024-12-02,LaLiga,31,Pau Cubarsí,Centre-Back,Spain,17,FC Barcelona,€40.00m
+131,2024-12-02,LaLiga,32,Oihan Sancet,Attacking Midfield,Spain,24,Athletic Bilbao,€40.00m
+132,2024-12-02,LaLiga,33,Brahim Díaz,Attacking Midfield,Morocco,25,Real Madrid,€40.00m
+133,2024-12-02,LaLiga,34,Nayef Aguerd,Centre-Back,Morocco,28,Real Sociedad,€35.00m
+134,2024-12-02,LaLiga,35,Viktor Tsygankov,Right Winger,Ukraine,27,Girona FC,€30.00m
+135,2024-12-02,LaLiga,36,Yéremy Pino,Right Winger,Spain,22,Villarreal CF,€30.00m
+136,2024-12-02,LaLiga,37,Rodrigo De Paul,Central Midfield,Argentina,30,Atlético de Madrid,€30.00m
+137,2024-12-02,LaLiga,38,Marcos Llorente,Right Midfield,Spain,29,Atlético de Madrid,€30.00m
+138,2024-12-02,LaLiga,39,Cristhian Mosquera,Centre-Back,Spain,20,Valencia CF,€30.00m
+139,2024-12-02,LaLiga,40,Samuel Lino,Left Winger,Brazil,24,Atlético de Madrid,€30.00m
+140,2024-12-02,LaLiga,41,Pablo Barrios,Central Midfield,Spain,21,Atlético de Madrid,€30.00m
+141,2024-12-02,LaLiga,42,Andreas Christensen,Centre-Back,Denmark,28,FC Barcelona,€30.00m
+142,2024-12-02,LaLiga,43,Ferran Torres,Right Winger,Spain,24,FC Barcelona,€30.00m
+143,2024-12-02,LaLiga,44,Dani Vivian,Centre-Back,Spain,25,Athletic Bilbao,€30.00m
+144,2024-12-02,LaLiga,45,Unai Simón,Goalkeeper,Spain,27,Athletic Bilbao,€30.00m
+145,2024-12-02,LaLiga,46,Vitor Roque,Centre-Forward,Brazil,19,Real Betis Balompié,€30.00m
+146,2024-12-02,LaLiga,47,Jan Oblak,Goalkeeper,Slovenia,31,Atlético de Madrid,€28.00m
+147,2024-12-02,LaLiga,48,Nahuel Molina,Right-Back,Argentina,26,Atlético de Madrid,€28.00m
+148,2024-12-02,LaLiga,49,Miguel Gutiérrez,Left-Back,Spain,23,Girona FC,€25.00m
+149,2024-12-02,LaLiga,50,Yangel Herrera,Central Midfield,Venezuela,26,Girona FC,€25.00m
+175,2024-12-02,LaLiga,76,Logan Costa,Centre-Back,Cape Verde,23,Villarreal CF,€18.00m
+176,2024-12-02,LaLiga,77,Arsen Zakharyan,Attacking Midfield,Russia,21,Real Sociedad,€18.00m
+177,2024-12-02,LaLiga,78,Gorka Guruzeta,Centre-Forward,Spain,28,Athletic Bilbao,€18.00m
+178,2024-12-02,LaLiga,79,Isaac Romero,Centre-Forward,Spain,24,Sevilla FC,€18.00m
+179,2024-12-02,LaLiga,80,Ángel Correa,Right Winger,Argentina,29,Atlético de Madrid,€18.00m
+180,2024-12-02,LaLiga,81,Hugo Duro,Centre-Forward,Spain,25,Valencia CF,€16.00m
+181,2024-12-02,LaLiga,82,Marc Casadó,Defensive Midfield,Spain,21,FC Barcelona,€15.00m
+182,2024-12-02,LaLiga,83,Aimar Oroz,Attacking Midfield,Spain,23,CA Osasuna,€15.00m
+183,2024-12-02,LaLiga,84,Mika Mármol,Centre-Back,Spain,23,UD Las Palmas,€15.00m
+184,2024-12-02,LaLiga,85,André Almeida,Attacking Midfield,Portugal,24,Valencia CF,€15.00m
+185,2024-12-02,LaLiga,86,Fran García,Left-Back,Spain,25,Real Madrid,€15.00m
+186,2024-12-02,LaLiga,87,Yarek Gasiorowski,Centre-Back,Spain,19,Valencia CF,€15.00m
+187,2024-12-02,LaLiga,88,Robert Lewandowski,Centre-Forward,Poland,36,FC Barcelona,€15.00m
+188,2024-12-02,LaLiga,89,Jon Pacheco,Centre-Back,Spain,23,Real Sociedad,€15.00m
+189,2024-12-02,LaLiga,90,David Alaba,Centre-Back,Austria,32,Real Madrid,€15.00m
+190,2024-12-02,LaLiga,91,Ilias Akhomach,Right Winger,Morocco,20,Villarreal CF,€15.00m
+191,2024-12-02,LaLiga,92,Beñat Prados,Central Midfield,Spain,23,Athletic Bilbao,€15.00m
+192,2024-12-02,LaLiga,93,Álvaro Djaló,Left Winger,Spain,25,Athletic Bilbao,€15.00m
+193,2024-12-02,LaLiga,94,Luka Sucic,Central Midfield,Croatia,22,Real Sociedad,€15.00m
+194,2024-12-02,LaLiga,95,Iván Martín,Attacking Midfield,Spain,25,Girona FC,€15.00m
+195,2024-12-02,LaLiga,96,Ansu Fati,Left Winger,Spain,22,FC Barcelona,€15.00m
+196,2024-12-02,LaLiga,97,Borja Mayoral,Centre-Forward,Spain,27,Getafe CF,€15.00m
+197,2024-12-02,LaLiga,98,Juanlu Sánchez,Right-Back,Spain,21,Sevilla FC,€15.00m
+198,2024-12-02,LaLiga,99,Pablo Fornals,Attacking Midfield,Spain,28,Real Betis Balompié,€14.00m
+199,2024-12-02,LaLiga,100,Bryan Gil,Left Winger,Spain,23,Girona FC,€14.00m
+200,2024-12-02,Bundesliga,1,Florian Wirtz,Attacking Midfield,Germany,21,Bayer 04 Leverkusen,€130.00m
+201,2024-12-02,Bundesliga,2,Jamal Musiala,Attacking Midfield,Germany,21,Bayern Munich,€130.00m
+202,2024-12-02,Bundesliga,3,Harry Kane,Centre-Forward,England,31,Bayern Munich,€100.00m
+203,2024-12-02,Bundesliga,4,Xavi Simons,Attacking Midfield,Netherlands,21,RB Leipzig,€80.00m
+204,2024-12-02,Bundesliga,5,Michael Olise,Right Winger,France,22,Bayern Munich,€65.00m
+205,2024-12-02,Bundesliga,6,Leroy Sané,Right Winger,Germany,28,Bayern Munich,€60.00m
+206,2024-12-02,Bundesliga,7,Loïs Openda,Centre-Forward,Belgium,24,RB Leipzig,€60.00m
+207,2024-12-02,Bundesliga,8,Benjamin Sesko,Centre-Forward,Slovenia,21,RB Leipzig,€50.00m
+208,2024-12-02,Bundesliga,9,Alphonso Davies,Left-Back,Canada,24,Bayern Munich,€50.00m
+209,2024-12-02,Bundesliga,10,Jeremie Frimpong,Right Midfield,Netherlands,23,Bayer 04 Leverkusen,€50.00m
+210,2024-12-02,Bundesliga,11,Joshua Kimmich,Defensive Midfield,Germany,29,Bayern Munich,€50.00m
+211,2024-12-02,Bundesliga,12,João Palhinha,Defensive Midfield,Portugal,29,Bayern Munich,€50.00m
+212,2024-12-02,Bundesliga,13,Aleksandar Pavlovic,Defensive Midfield,Germany,20,Bayern Munich,€50.00m
+213,2024-12-02,Bundesliga,14,Victor Boniface,Centre-Forward,Nigeria,23,Bayer 04 Leverkusen,€45.00m
+214,2024-12-02,Bundesliga,15,Alejandro Grimaldo,Left-Back,Spain,29,Bayer 04 Leverkusen,€45.00m
+215,2024-12-02,Bundesliga,16,Dayot Upamecano,Centre-Back,France,26,Bayern Munich,€45.00m
+216,2024-12-02,Bundesliga,17,Edmond Tapsoba,Centre-Back,Burkina Faso,25,Bayer 04 Leverkusen,€45.00m
+217,2024-12-02,Bundesliga,18,Exequiel Palacios,Central Midfield,Argentina,26,Bayer 04 Leverkusen,€45.00m
+218,2024-12-02,Bundesliga,19,Min-jae Kim,Centre-Back,"Korea, South",28,Bayern Munich,€45.00m
+219,2024-12-02,Bundesliga,20,Enzo Millot,Attacking Midfield,France,22,VfB Stuttgart,€42.00m
+220,2024-12-02,Bundesliga,21,Mathys Tel,Left Winger,France,19,Bayern Munich,€40.00m
+221,2024-12-02,Bundesliga,22,Nico Schlotterbeck,Centre-Back,Germany,25,Borussia Dortmund,€40.00m
+222,2024-12-02,Bundesliga,23,Gregor Kobel,Goalkeeper,Switzerland,26,Borussia Dortmund,€40.00m
+223,2024-12-02,Bundesliga,24,Omar Marmoush,Centre-Forward,Egypt,25,Eintracht Frankfurt,€40.00m
+224,2024-12-02,Bundesliga,25,Serge Gnabry,Left Winger,Germany,29,Bayern Munich,€40.00m
+225,2024-12-02,Bundesliga,26,Serhou Guirassy,Centre-Forward,Guinea,28,Borussia Dortmund,€40.00m
+226,2024-12-02,Bundesliga,27,Kingsley Coman,Left Winger,France,28,Bayern Munich,€40.00m
+227,2024-12-02,Bundesliga,28,Piero Hincapié,Centre-Back,Ecuador,22,Bayer 04 Leverkusen,€40.00m
+228,2024-12-02,Bundesliga,29,Castello Lukeba,Centre-Back,France,21,RB Leipzig,€40.00m
+229,2024-12-02,Bundesliga,30,Donyell Malen,Right Winger,Netherlands,25,Borussia Dortmund,€40.00m
+230,2024-12-02,Bundesliga,31,Julian Brandt,Attacking Midfield,Germany,28,Borussia Dortmund,€40.00m
+231,2024-12-02,Bundesliga,32,Jamie Gittens,Left Winger,England,20,Borussia Dortmund,€35.00m
+232,2024-12-02,Bundesliga,33,Karim Adeyemi,Left Winger,Germany,22,Borussia Dortmund,€35.00m
+233,2024-12-02,Bundesliga,34,Lutsharel Geertruida,Right-Back,Netherlands,24,RB Leipzig,€32.00m
+234,2024-12-02,Bundesliga,35,Jonathan Tah,Centre-Back,Germany,28,Bayer 04 Leverkusen,€30.00m
+235,2024-12-02,Bundesliga,36,Hiroki Ito,Centre-Back,Japan,25,Bayern Munich,€30.00m
+236,2024-12-02,Bundesliga,37,Maximilian Beier,Centre-Forward,Germany,22,Borussia Dortmund,€30.00m
+237,2024-12-02,Bundesliga,38,Konrad Laimer,Central Midfield,Austria,27,Bayern Munich,€30.00m
+238,2024-12-02,Bundesliga,39,Amine Adli,Left Winger,Morocco,24,Bayer 04 Leverkusen,€30.00m
+239,2024-12-02,Bundesliga,40,Hugo Ekitiké,Centre-Forward,France,22,Eintracht Frankfurt,€30.00m
+240,2024-12-02,Bundesliga,41,Deniz Undav,Centre-Forward,Germany,28,VfB Stuttgart,€28.00m
+241,2024-12-02,Bundesliga,42,Angelo Stiller,Defensive Midfield,Germany,23,VfB Stuttgart,€28.00m
+242,2024-12-02,Bundesliga,43,Hugo Larsson,Central Midfield,Sweden,20,Eintracht Frankfurt,€28.00m
+243,2024-12-02,Bundesliga,44,Josip Stanisic,Right-Back,Croatia,24,Bayern Munich,€28.00m
+244,2024-12-02,Bundesliga,45,Ermedin Demirovic,Centre-Forward,Bosnia-Herzegovina,26,VfB Stuttgart,€28.00m
+245,2024-12-02,Bundesliga,46,Xaver Schlager,Central Midfield,Austria,27,RB Leipzig,€28.00m
+246,2024-12-02,Bundesliga,47,David Raum,Left-Back,Germany,26,RB Leipzig,€25.00m
+247,2024-12-02,Bundesliga,48,Yan Couto,Right-Back,Brazil,22,Borussia Dortmund,€25.00m
+248,2024-12-02,Bundesliga,49,Arthur Vermeeren,Defensive Midfield,Belgium,19,RB Leipzig,€25.00m
+249,2024-12-02,Bundesliga,50,Waldemar Anton,Centre-Back,Germany,28,Borussia Dortmund,€24.00m
+255,2024-12-02,Bundesliga,6,Loïs Openda,Centre-Forward,Belgium,24,RB Leipzig,€60.00m
+256,2024-12-02,Bundesliga,7,Leroy Sané,Right Winger,Germany,28,Bayern Munich,€60.00m
+257,2024-12-02,Bundesliga,8,Jeremie Frimpong,Right Midfield,Netherlands,23,Bayer 04 Leverkusen,€50.00m
+258,2024-12-02,Bundesliga,9,Benjamin Sesko,Centre-Forward,Slovenia,21,RB Leipzig,€50.00m
+259,2024-12-02,Bundesliga,10,Aleksandar Pavlovic,Defensive Midfield,Germany,20,Bayern Munich,€50.00m
+260,2024-12-02,Bundesliga,11,Alphonso Davies,Left-Back,Canada,24,Bayern Munich,€50.00m
+262,2024-12-02,Bundesliga,13,Joshua Kimmich,Defensive Midfield,Germany,29,Bayern Munich,€50.00m
+263,2024-12-02,Bundesliga,14,Alejandro Grimaldo,Left-Back,Spain,29,Bayer 04 Leverkusen,€45.00m
+264,2024-12-02,Bundesliga,15,Exequiel Palacios,Central Midfield,Argentina,26,Bayer 04 Leverkusen,€45.00m
+265,2024-12-02,Bundesliga,16,Edmond Tapsoba,Centre-Back,Burkina Faso,25,Bayer 04 Leverkusen,€45.00m
+266,2024-12-02,Bundesliga,17,Victor Boniface,Centre-Forward,Nigeria,23,Bayer 04 Leverkusen,€45.00m
+267,2024-12-02,Bundesliga,18,Min-jae Kim,Centre-Back,"Korea, South",28,Bayern Munich,€45.00m
+268,2024-12-02,Bundesliga,19,Dayot Upamecano,Centre-Back,France,26,Bayern Munich,€45.00m
+270,2024-12-02,Bundesliga,21,Piero Hincapié,Centre-Back,Ecuador,22,Bayer 04 Leverkusen,€40.00m
+271,2024-12-02,Bundesliga,22,Julian Brandt,Attacking Midfield,Germany,28,Borussia Dortmund,€40.00m
+273,2024-12-02,Bundesliga,24,Serhou Guirassy,Centre-Forward,Guinea,28,Borussia Dortmund,€40.00m
+274,2024-12-02,Bundesliga,25,Mathys Tel,Left Winger,France,19,Bayern Munich,€40.00m
+275,2024-12-02,Bundesliga,76,Danilho Doekhi,Centre-Back,Netherlands,26,1.FC Union Berlin,€17.00m
+276,2024-12-02,Bundesliga,77,Nicolas Seiwald,Central Midfield,Austria,23,RB Leipzig,€16.00m
+277,2024-12-02,Bundesliga,78,Mohamed Amoura,Centre-Forward,Algeria,24,VfL Wolfsburg,€16.00m
+278,2024-12-02,Bundesliga,79,Ko Itakura,Centre-Back,Japan,27,Borussia Mönchengladbach,€15.00m
+279,2024-12-02,Bundesliga,80,Jonathan Burkardt,Centre-Forward,Germany,24,1.FSV Mainz 05,€15.00m
+280,2024-12-02,Bundesliga,81,Anton Stach,Central Midfield,Germany,26,TSG 1899 Hoffenheim,€15.00m
+281,2024-12-02,Bundesliga,82,Patrick Wimmer,Right Winger,Austria,23,VfL Wolfsburg,€15.00m
+282,2024-12-02,Bundesliga,83,Jonas Wind,Centre-Forward,Denmark,25,VfL Wolfsburg,€15.00m
+283,2024-12-02,Bundesliga,84,Diogo Leite,Centre-Back,Portugal,25,1.FC Union Berlin,€15.00m
+284,2024-12-02,Bundesliga,85,Paul Wanner,Attacking Midfield,Germany,18,1.FC Heidenheim 1846,€15.00m
+285,2024-12-02,Bundesliga,86,Eljif Elmas,Attacking Midfield,North Macedonia,25,RB Leipzig,€15.00m
+286,2024-12-02,Bundesliga,87,Niklas Süle,Centre-Back,Germany,29,Borussia Dortmund,€15.00m
+287,2024-12-02,Bundesliga,88,Philipp Lienhart,Centre-Back,Austria,28,SC Freiburg,€15.00m
+288,2024-12-02,Bundesliga,89,Kiliann Sildillia,Right-Back,France,22,SC Freiburg,€15.00m
+289,2024-12-02,Bundesliga,90,Kamil Grabara,Goalkeeper,Poland,25,VfL Wolfsburg,€14.00m
+290,2024-12-02,Bundesliga,91,Joakim Maehle,Right-Back,Denmark,27,VfL Wolfsburg,€14.00m
+291,2024-12-02,Bundesliga,92,Jamie Leweling,Right Winger,Germany,23,VfB Stuttgart,€13.00m
+292,2024-12-02,Bundesliga,93,Romano Schmid,Attacking Midfield,Austria,24,SV Werder Bremen,€13.00m
+293,2024-12-02,Bundesliga,94,Can Uzun,Attacking Midfield,Türkiye,19,Eintracht Frankfurt,€12.00m
+294,2024-12-02,Bundesliga,95,Konstantinos Koulierakis,Centre-Back,Greece,21,VfL Wolfsburg,€12.00m
+295,2024-12-02,Bundesliga,96,Alexander Prass,Left Midfield,Austria,23,TSG 1899 Hoffenheim,€12.00m
+296,2024-12-02,Bundesliga,97,Merlin Röhl,Attacking Midfield,Germany,22,SC Freiburg,€12.00m
+297,2024-12-02,Bundesliga,98,Franck Honorat,Right Winger,France,28,Borussia Mönchengladbach,€12.00m
+298,2024-12-02,Bundesliga,99,Atakan Karazor,Defensive Midfield,Türkiye,28,VfB Stuttgart,€12.00m
+299,2024-12-02,Bundesliga,100,El Chadaille Bitshiabu,Centre-Back,France,19,RB Leipzig,€12.00m
+300,2024-12-02,Serie A,1,Lautaro Martínez,Centre-Forward,Argentina,27,Inter Milan,€110.00m
+301,2024-12-02,Serie A,2,Khvicha Kvaratskhelia,Left Winger,Georgia,23,SSC Napoli,€80.00m
+302,2024-12-02,Serie A,3,Nicolò Barella,Central Midfield,Italy,27,Inter Milan,€80.00m
+303,2024-12-02,Serie A,4,Rafael Leão,Left Winger,Portugal,25,AC Milan,€75.00m
+304,2024-12-02,Serie A,5,Alessandro Bastoni,Centre-Back,Italy,25,Inter Milan,€70.00m
+305,2024-12-02,Serie A,6,Marcus Thuram,Centre-Forward,France,27,Inter Milan,€65.00m
+306,2024-12-02,Serie A,7,Dušan Vlahović,Centre-Forward,Serbia,24,Juventus FC,€65.00m
+307,2024-12-02,Serie A,8,Theo Hernández,Left-Back,France,27,AC Milan,€60.00m
+308,2024-12-02,Serie A,9,Bremer,Centre-Back,Brazil,27,Juventus FC,€60.00m
+309,2024-12-02,Serie A,10,Douglas Luiz,Central Midfield,Brazil,26,Juventus FC,€55.00m
+310,2024-12-02,Serie A,11,Teun Koopmeiners,Attacking Midfield,Netherlands,26,Juventus FC,€55.00m
+311,2024-12-02,Serie A,12,Christian Pulisic,Right Winger,United States,26,AC Milan,€50.00m
+312,2024-12-02,Serie A,13,Federico Dimarco,Left-Back,Italy,27,Inter Milan,€50.00m
+313,2024-12-02,Serie A,14,Giorgio Scalvini,Centre-Back,Italy,20,Atalanta BC,€45.00m
+314,2024-12-02,Serie A,15,Hakan Çalhanoğlu,Defensive Midfield,Türkiye,30,Inter Milan,€45.00m
+315,2024-12-02,Serie A,16,Benjamin Pavard,Centre-Back,France,28,Inter Milan,€45.00m
+316,2024-12-02,Serie A,17,Éderson,Central Midfield,Brazil,25,Atalanta BC,€40.00m
+317,2024-12-02,Serie A,18,Ademola Lookman,Second Striker,Nigeria,27,Atalanta BC,€40.00m
+318,2024-12-02,Serie A,19,Kenan Yıldız,Left Winger,Türkiye,19,Juventus FC,€40.00m
+319,2024-12-02,Serie A,20,Mike Maignan,Goalkeeper,France,29,AC Milan,€38.00m
+320,2024-12-02,Serie A,21,Khéphren Thuram,Central Midfield,France,23,Juventus FC,€35.00m
+321,2024-12-02,Serie A,22,Davide Frattesi,Central Midfield,Italy,25,Inter Milan,€35.00m
+322,2024-12-02,Serie A,23,Nico González,Right Winger,Argentina,26,Juventus FC,€35.00m
+323,2024-12-02,Serie A,24,Alessandro Buongiorno,Centre-Back,Italy,25,SSC Napoli,€35.00m
+324,2024-12-02,Serie A,25,Artem Dovbyk,Centre-Forward,Ukraine,27,AS Roma,€35.00m
+325,2024-12-02,Serie A,26,Gianluca Scamacca,Centre-Forward,Italy,25,Atalanta BC,€35.00m
+326,2024-12-02,Serie A,27,Charles De Ketelaere,Attacking Midfield,Belgium,23,Atalanta BC,€34.00m
+327,2024-12-02,Serie A,28,Scott McTominay,Central Midfield,Scotland,27,SSC Napoli,€32.00m
+328,2024-12-02,Serie A,29,Fikayo Tomori,Centre-Back,England,26,AC Milan,€32.00m
+329,2024-12-02,Serie A,30,Youssouf Fofana,Defensive Midfield,France,25,AC Milan,€30.00m
+330,2024-12-02,Serie A,31,Romelu Lukaku,Centre-Forward,Belgium,31,SSC Napoli,€30.00m
+331,2024-12-02,Serie A,32,Tijjani Reijnders,Central Midfield,Netherlands,26,AC Milan,€30.00m
+332,2024-12-02,Serie A,33,Odilon Kossounou,Centre-Back,Cote d'Ivoire,23,Atalanta BC,€30.00m
+333,2024-12-02,Serie A,34,Andrea Cambiaso,Left-Back,Italy,24,Juventus FC,€30.00m
+334,2024-12-02,Serie A,35,Albert Gudmundsson,Second Striker,Iceland,27,ACF Fiorentina,€30.00m
+335,2024-12-02,Serie A,36,Mateo Retegui,Centre-Forward,Italy,25,Atalanta BC,€28.00m
+336,2024-12-02,Serie A,37,Manuel Locatelli,Defensive Midfield,Italy,26,Juventus FC,€28.00m
+337,2024-12-02,Serie A,38,Stanislav Lobotka,Defensive Midfield,Slovakia,30,SSC Napoli,€28.00m
+338,2024-12-02,Serie A,39,David Neres,Right Winger,Brazil,27,SSC Napoli,€28.00m
+339,2024-12-02,Serie A,40,Samuele Ricci,Defensive Midfield,Italy,23,Torino FC,€28.00m
+340,2024-12-02,Serie A,41,Frank Anguissa,Central Midfield,Cameroon,29,SSC Napoli,€27.00m
+341,2024-12-02,Serie A,42,Mattéo Guendouzi,Central Midfield,France,25,SS Lazio,€25.00m
+342,2024-12-02,Serie A,43,Ruben Loftus-Cheek,Central Midfield,England,28,AC Milan,€25.00m
+343,2024-12-02,Serie A,44,Matías Soulé,Right Winger,Argentina,21,AS Roma,€25.00m
+344,2024-12-02,Serie A,45,Tammy Abraham,Centre-Forward,England,27,AC Milan,€25.00m
+345,2024-12-02,Serie A,46,Gianluca Mancini,Centre-Back,Italy,28,AS Roma,€25.00m
+346,2024-12-02,Serie A,47,Yann Bisseck,Centre-Back,Germany,24,Inter Milan,€25.00m
+347,2024-12-02,Serie A,48,Federico Gatti,Centre-Back,Italy,26,Juventus FC,€25.00m
+348,2024-12-02,Serie A,49,Evan Ndicka,Centre-Back,Cote d'Ivoire,25,AS Roma,€25.00m
+349,2024-12-02,Serie A,50,Weston McKennie,Central Midfield,United States,26,Juventus FC,€24.00m
+375,2024-12-02,Serie A,76,Pierre Kalulu,Centre-Back,France,24,Juventus FC,€20.00m
+376,2024-12-02,Serie A,77,Morten Frendrup,Central Midfield,Denmark,23,Genoa CFC,€20.00m
+377,2024-12-02,Serie A,78,Ivan Ilić,Central Midfield,Serbia,23,Torino FC,€18.00m
+378,2024-12-02,Serie A,79,Michele Di Gregorio,Goalkeeper,Italy,27,Juventus FC,€18.00m
+379,2024-12-02,Serie A,80,Nicolò Rovella,Defensive Midfield,Italy,22,SS Lazio,€18.00m
+380,2024-12-02,Serie A,81,Emerson Royal,Right-Back,Brazil,25,AC Milan,€18.00m
+381,2024-12-02,Serie A,82,Sam Beukema,Centre-Back,Netherlands,26,Bologna FC 1909,€18.00m
+382,2024-12-02,Serie A,83,Mario Gila,Centre-Back,Spain,24,SS Lazio,€18.00m
+383,2024-12-02,Serie A,84,Kristjan Asllani,Defensive Midfield,Albania,22,Inter Milan,€18.00m
+384,2024-12-02,Serie A,85,Santiago Castro,Centre-Forward,Argentina,20,Bologna FC 1909,€18.00m
+385,2024-12-02,Serie A,86,Lorenzo Lucca,Centre-Forward,Italy,24,Udinese Calcio,€18.00m
+386,2024-12-02,Serie A,87,Mario Hermoso,Centre-Back,Spain,29,AS Roma,€18.00m
+387,2024-12-02,Serie A,88,Moise Kean,Centre-Forward,Italy,24,ACF Fiorentina,€18.00m
+388,2024-12-02,Serie A,89,Billy Gilmour,Defensive Midfield,Scotland,23,SSC Napoli,€18.00m
+389,2024-12-02,Serie A,90,Ismaël Bennacer,Defensive Midfield,Algeria,27,AC Milan,€18.00m
+390,2024-12-02,Serie A,91,Jhon Lucumí,Centre-Back,Colombia,26,Bologna FC 1909,€17.00m
+391,2024-12-02,Serie A,92,Perr Schuurs,Centre-Back,Netherlands,25,Torino FC,€17.00m
+392,2024-12-02,Serie A,93,Dodô,Right-Back,Brazil,26,ACF Fiorentina,€17.00m
+393,2024-12-02,Serie A,94,Marco Carnesecchi,Goalkeeper,Italy,24,Atalanta BC,€16.00m
+394,2024-12-02,Serie A,95,Andrea Colpani,Attacking Midfield,Italy,25,ACF Fiorentina,€16.00m
+395,2024-12-02,Serie A,96,Álvaro Morata,Centre-Forward,Spain,32,AC Milan,€16.00m
+396,2024-12-02,Serie A,97,Riccardo Orsolini,Right Winger,Italy,27,Bologna FC 1909,€16.00m
+397,2024-12-02,Serie A,98,Lucas Beltrán,Second Striker,Argentina,23,ACF Fiorentina,€16.00m
+398,2024-12-02,Serie A,99,Amir Rrahmani,Centre-Back,Kosovo,30,SSC Napoli,€15.00m
+399,2024-12-02,Serie A,100,Matteo Pessina,Central Midfield,Italy,27,AC Monza,€15.00m
+400,2024-12-02,Ligue 1,1,Bradley Barcola,Left Winger,France,22,Paris Saint-Germain,€65.00m
+401,2024-12-02,Ligue 1,2,João Neves,Defensive Midfield,Portugal,20,Paris Saint-Germain,€60.00m
+402,2024-12-02,Ligue 1,3,Warren Zaïre-Emery,Central Midfield,France,18,Paris Saint-Germain,€60.00m
+403,2024-12-02,Ligue 1,4,Achraf Hakimi,Right-Back,Morocco,26,Paris Saint-Germain,€60.00m
+404,2024-12-02,Ligue 1,5,Ousmane Dembélé,Right Winger,France,27,Paris Saint-Germain,€60.00m
+405,2024-12-02,Ligue 1,6,Vitinha,Central Midfield,Portugal,24,Paris Saint-Germain,€55.00m
+406,2024-12-02,Ligue 1,7,Nuno Mendes,Left-Back,Portugal,22,Paris Saint-Germain,€55.00m
+407,2024-12-02,Ligue 1,8,Marquinhos,Centre-Back,Brazil,30,Paris Saint-Germain,€50.00m
+408,2024-12-02,Ligue 1,9,Gonçalo Ramos,Centre-Forward,Portugal,23,Paris Saint-Germain,€50.00m
+409,2024-12-02,Ligue 1,10,Jonathan David,Centre-Forward,Canada,24,LOSC Lille,€45.00m
+410,2024-12-02,Ligue 1,11,Willian Pacho,Centre-Back,Ecuador,23,Paris Saint-Germain,€40.00m
+411,2024-12-02,Ligue 1,12,Gianluigi Donnarumma,Goalkeeper,Italy,25,Paris Saint-Germain,€40.00m
+412,2024-12-02,Ligue 1,13,Randal Kolo Muani,Centre-Forward,France,25,Paris Saint-Germain,€40.00m
+413,2024-12-02,Ligue 1,14,Désiré Doué,Left Winger,France,19,Paris Saint-Germain,€40.00m
+414,2024-12-02,Ligue 1,15,Lucas Hernández,Left-Back,France,28,Paris Saint-Germain,€40.00m
+415,2024-12-02,Ligue 1,16,Mason Greenwood,Right Winger,England,23,Olympique Marseille,€35.00m
+416,2024-12-02,Ligue 1,17,Fabián Ruiz,Central Midfield,Spain,28,Paris Saint-Germain,€35.00m
+417,2024-12-02,Ligue 1,18,Maghnes Akliouche,Right Winger,France,22,AS Monaco,€30.00m
+418,2024-12-02,Ligue 1,19,Lucas Beraldo,Centre-Back,Brazil,21,Paris Saint-Germain,€30.00m
+419,2024-12-02,Ligue 1,20,Elye Wahi,Centre-Forward,France,21,Olympique Marseille,€30.00m
+420,2024-12-02,Ligue 1,21,Aleksandr Golovin,Attacking Midfield,Russia,28,AS Monaco,€30.00m
+421,2024-12-02,Ligue 1,22,Adrien Rabiot,Central Midfield,France,29,Olympique Marseille,€30.00m
+422,2024-12-02,Ligue 1,23,Angel Gomes,Attacking Midfield,England,24,LOSC Lille,€28.00m
+423,2024-12-02,Ligue 1,24,Denis Zakaria,Defensive Midfield,Switzerland,28,AS Monaco,€28.00m
+424,2024-12-02,Ligue 1,25,Edon Zhegrova,Right Winger,Kosovo,25,LOSC Lille,€25.00m
+425,2024-12-02,Ligue 1,26,Wilfried Singo,Centre-Back,Cote d'Ivoire,23,AS Monaco,€25.00m
+426,2024-12-02,Ligue 1,27,Kang-in Lee,Attacking Midfield,"Korea, South",23,Paris Saint-Germain,€25.00m
+427,2024-12-02,Ligue 1,28,Kevin Danso,Centre-Back,Austria,26,RC Lens,€25.00m
+428,2024-12-02,Ligue 1,29,Facundo Medina,Centre-Back,Argentina,25,RC Lens,€25.00m
+429,2024-12-02,Ligue 1,30,Amine Gouiri,Centre-Forward,Algeria,24,Stade Rennais FC,€25.00m
+430,2024-12-02,Ligue 1,31,Lucas Chevalier,Goalkeeper,France,23,LOSC Lille,€25.00m
+431,2024-12-02,Ligue 1,32,Edon Zhegrova,Right Winger,Kosovo,25,LOSC Lille,€25.00m
+432,2024-12-02,Ligue 1,33,Milan Skriniar,Centre-Back,Slovakia,29,Paris Saint-Germain,€20.00m
+433,2024-12-02,Ligue 1,34,Terem Moffi,Centre-Forward,Nigeria,25,OGC Nice,€20.00m
+434,2024-12-02,Ligue 1,35,Caio Henrique,Left-Back,Brazil,27,AS Monaco,€20.00m
+435,2024-12-02,Ligue 1,36,Youssoufa Moukoko,Centre-Forward,Germany,20,OGC Nice,€20.00m
+436,2024-12-02,Ligue 1,37,Marcin Bulka,Goalkeeper,Poland,25,OGC Nice,€20.00m
+437,2024-12-02,Ligue 1,38,Marco Asensio,Right Winger,Spain,28,Paris Saint-Germain,€20.00m
+438,2024-12-02,Ligue 1,39,Matvey Safonov,Goalkeeper,Russia,25,Paris Saint-Germain,€20.00m
+439,2024-12-02,Ligue 1,40,Vanderson,Right-Back,Brazil,23,AS Monaco,€20.00m
+440,2024-12-02,Ligue 1,41,Pierre-Emile Højbjerg,Defensive Midfield,Denmark,29,Olympique Marseille,€20.00m
+441,2024-12-02,Ligue 1,42,Djordje Petrovic,Goalkeeper,Serbia,25,RC Strasbourg Alsace,€20.00m
+442,2024-12-02,Ligue 1,43,Habib Diarra,Attacking Midfield,Senegal,20,RC Strasbourg Alsace,€20.00m
+443,2024-12-02,Ligue 1,44,Takumi Minamino,Left Winger,Japan,29,AS Monaco,€20.00m
+444,2024-12-02,Ligue 1,45,Leonardo Balerdi,Centre-Back,Argentina,25,Olympique Marseille,€20.00m
+445,2024-12-02,Ligue 1,46,Rayan Cherki,Attacking Midfield,France,21,Olympique Lyon,€20.00m
+446,2024-12-02,Ligue 1,47,Georges Mikautadze,Centre-Forward,Georgia,24,Olympique Lyon,€20.00m
+447,2024-12-02,Ligue 1,48,Arnaud Kalimuendo,Centre-Forward,France,22,Stade Rennais FC,€20.00m
+448,2024-12-02,Ligue 1,49,Ernest Nuamah,Right Winger,Ghana,21,Olympique Lyon,€18.00m
+449,2024-12-02,Ligue 1,50,Guillaume Restes,Goalkeeper,France,19,FC Toulouse,€18.00m
+475,2024-12-02,Ligue 1,76,Lilian Brassier,Centre-Back,France,25,Olympique Marseille,€12.00m
+476,2024-12-02,Ligue 1,77,Melvin Bard,Left-Back,France,24,OGC Nice,€12.00m
+477,2024-12-02,Ligue 1,78,Ismaël Koné,Central Midfield,Canada,22,Olympique Marseille,€12.00m
+478,2024-12-02,Ligue 1,79,Sebastian Nanasi,Left Midfield,Sweden,22,RC Strasbourg Alsace,€12.00m
+479,2024-12-02,Ligue 1,80,Moses Simon,Left Winger,Nigeria,29,FC Nantes,€12.00m
+480,2024-12-02,Ligue 1,81,Christian Mawissa,Centre-Back,France,19,AS Monaco,€12.00m
+481,2024-12-02,Ligue 1,82,Breel Embolo,Centre-Forward,Switzerland,27,AS Monaco,€12.00m
+482,2024-12-02,Ligue 1,83,Bradley Locko,Left-Back,France,22,Stade Brestois 29,€12.00m
+483,2024-12-02,Ligue 1,84,Neal Maupay,Centre-Forward,France,28,Olympique Marseille,€12.00m
+484,2024-12-02,Ligue 1,85,Luis Henrique,Left Winger,Brazil,22,Olympique Marseille,€12.00m
+485,2024-12-02,Ligue 1,86,Azor Matusiwa,Defensive Midfield,Netherlands,26,Stade Rennais FC,€12.00m
+486,2024-12-02,Ligue 1,87,Krépin Diatta,Right Winger,Senegal,25,AS Monaco,€12.00m
+487,2024-12-02,Ligue 1,88,Abakar Sylla,Centre-Back,Cote d'Ivoire,21,RC Strasbourg Alsace,€12.00m
+488,2024-12-02,Ligue 1,89,Sofiane Diop,Left Winger,Morocco,24,OGC Nice,€12.00m
+489,2024-12-02,Ligue 1,90,Evann Guessand,Centre-Forward,Cote d'Ivoire,23,OGC Nice,€12.00m
+490,2024-12-02,Ligue 1,91,Mahdi Camara,Central Midfield,France,26,Stade Brestois 29,€10.00m
+491,2024-12-02,Ligue 1,92,Nathan Zézé,Centre-Back,France,19,FC Nantes,€10.00m
+492,2024-12-02,Ligue 1,93,Thilo Kehrer,Centre-Back,Germany,28,AS Monaco,€10.00m
+493,2024-12-02,Ligue 1,94,Mohamed Daramy,Left Winger,Denmark,22,Stade Reims,€10.00m
+494,2024-12-02,Ligue 1,95,Baptiste Santamaria,Defensive Midfield,France,29,Stade Rennais FC,€10.00m
+495,2024-12-02,Ligue 1,96,Romain Faivre,Right Midfield,France,26,Stade Brestois 29,€10.00m
+496,2024-12-02,Ligue 1,97,Jonathan Rowe,Left Winger,England,21,Olympique Marseille,€10.00m
+497,2024-12-02,Ligue 1,98,Zakaria Aboukhlal,Right Winger,Morocco,24,FC Toulouse,€10.00m
+498,2024-12-02,Ligue 1,99,Akor Adams,Centre-Forward,Nigeria,24,Montpellier HSC,€10.00m
+499,2024-12-02,Ligue 1,100,Romain Del Castillo,Right Winger,France,28,Stade Brestois 29,€10.00m
